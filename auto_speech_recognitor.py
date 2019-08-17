@@ -52,7 +52,8 @@ for f in filenames:
                     r.adjust_for_ambient_noise(source)
                     audio = r.record(source, duration=t)
                     
-                recd = r.recognize_google(audio, language = "eu-ES")
+                # Here you will need to change the language you need to translate, by default is English (En)
+                recd = r.recognize_google(audio, language = "en")
                 tmp_num = len(recd.split(" "))
                 print("count of words:{},   duration time {} seconds".format(tmp_num, t))
                 print("\n", recd)
