@@ -1,7 +1,7 @@
-## Introduction for runing speech_recognition script <h2> tag
+## Introduction for runing speech_recognition script <h2> 
 *This script tool has been developed for transcripting single/multiple .wav files into txt/excel*
 
-### Attention <h3> tag
+### Attention <h3>
 - Please make sure you have connected internet/wifi
 - This script is written in Python 3, so if you are using Python 2, it won't work cause of print function.
 - Before runing it, make sure to have installed the following packages: numpy, speech_recognition, scipy, pandas.
