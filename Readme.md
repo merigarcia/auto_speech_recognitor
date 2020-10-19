@@ -1,5 +1,5 @@
 ## Introduction for runing speech_recognition script <h2> 
-*This script tool has been developed for transcripting single/multiple .wav files into txt/excel*
+*This script tool has been developed by Meritxell Garcia for transcripting single/multiple .wav files into txt/excel*
 
 
 ### Attention <h3>
