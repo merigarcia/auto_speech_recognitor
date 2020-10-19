@@ -3,7 +3,7 @@
 
 
 ### Attention <h3>
-```diff ruby
+```ruby
 * Please make sure you have connected internet/wifi
 * This script is written in Python 3
 * Before runing it, make sure to have installed the following packages: *numpy, speech_recognition, scipy, pandas*. 
